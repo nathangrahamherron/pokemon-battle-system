@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Charmander",
+    "types": [
+      "Fire"
+    ],
+    "hp": 51,
+    "attack": 32,
+    "defense": 28,
+    "speed": 37,
+    "moves": [
+      {
+        "name": "Scratch",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Ember",
+        "move_type": "Fire",
+        "power": 40
+      }
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "types": [
+      "Water"
+    ],
+    "hp": 53,
+    "attack": 30,
+    "defense": 37,
+    "speed": 28,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Water Gun",
+        "move_type": "Water",
+        "power": 40
+      }
+    ]
+  },
+  {
+    "name": "Bulbasaur",
+    "types": [
+      "Grass"
+    ],
+    "hp": 54,
+    "attack": 30,
+    "defense": 30,
+    "speed": 29,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Vine Whip",
+        "move_type": "Grass",
+        "power": 45
+      }
+    ]
+  },
+  {
+    "name": "Pidgey",
+    "types": [
+      "Normal"
+    ],
+    "hp": 52,
+    "attack": 29,
+    "defense": 27,
+    "speed": 33,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Quick Attack",
+        "move_type": "Normal",
+        "power": 35
+      }
+    ]
+  },
+  {
+    "name": "Rattata",
+    "types": [
+      "Normal"
+    ],
+    "hp": 48,
+    "attack": 33,
+    "defense": 25,
+    "speed": 40,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Quick Attack",
+        "move_type": "Normal",
+        "power": 35
+      }
+    ]
+  },
+  {
+    "name": "Vulpix",
+    "types": [
+      "Fire"
+    ],
+    "hp": 51,
+    "attack": 27,
+    "defense": 27,
+    "speed": 37,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Ember",
+        "move_type": "Fire",
+        "power": 40
+      }
+    ]
+  },
+  {
+    "name": "Staryu",
+    "types": [
+      "Water"
+    ],
+    "hp": 48,
+    "attack": 29,
+    "defense": 33,
+    "speed": 45,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Water Gun",
+        "move_type": "Water",
+        "power": 40
+      }
+    ]
+  },
+  {
+    "name": "Nidoran-M",
+    "types": [
+      "Normal"
+    ],
+    "hp": 54,
+    "attack": 34,
+    "defense": 27,
+    "speed": 31,
+    "moves": [
+      {
+        "name": "Tackle",
+        "move_type": "Normal",
+        "power": 40
+      },
+      {
+        "name": "Double Kick",
+        "move_type": "Normal",
+        "power": 30
+      }
+    ]
+  }
+]
